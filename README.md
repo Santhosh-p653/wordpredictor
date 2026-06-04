@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/cada61d1-d2a5-43f8-aaab-6f2f271be696
+
+
 # 📚 Pure PyTorch Multi-Dataset Word Predictor
 
 An independent, lightweight Deep Learning project featuring a **2-Layer LSTM network** built entirely in **PyTorch** (completely free of TensorFlow dependencies). The model is uniquely trained on a blended stream of contrasting text corpora—**classic Shakespearean theatrical drama** and **modern Elasticsearch technical documentation**—allowing it to predict the next sequential word across distinct writing styles.
@@ -8,8 +12,13 @@ An independent, lightweight Deep Learning project featuring a **2-Layer LSTM net
 
 Below is a demonstration of the interactive **Gradio** interface processing inputs, handling out-of-vocabulary terms gracefully, and executing next-word tensor inferences in real-time.
 
-<p align="center">
-  <video src="assets/demo.mp4" width="850" autoplay loop muted></video>
+
+<p align ="center" >
+  
+
+
+https://github.com/user-attachments/assets/22191227-30ea-4b12-82a9-4bc525b23ae6
+
 </p>
 
 ---
