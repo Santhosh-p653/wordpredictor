@@ -7,9 +7,8 @@ An independent, lightweight Deep Learning project featuring a **2-Layer LSTM net
 ## 🚀 Live Demo Showcase
 
 Below is a demonstration of the interactive **Gradio** interface processing inputs, handling out-of-vocabulary terms gracefully, and executing next-word tensor inferences in real-time.
-
 <p align="center">
-https://github.com/user-attachments/assets/371c0e07-1d70-47a5-9523-6fd0b27eb6e4
+  <video src="https://github.com/user-attachments/assets/371c0e07-1d70-47a5-9523-6fd0b27eb6e4" title="LSTM Word Predictor Demo Walkthrough" width="850" autoplay loop muted></video>
 </p>
 
 > 💡 **Note:** If you are editing this README on GitHub, drag and drop your renamed `demo.mp4` video directly into the markdown editor to generate your unique cloud asset stream link, then paste it into the `src=""` attribute above.
