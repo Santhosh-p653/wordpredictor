@@ -13,13 +13,14 @@ An independent, lightweight Deep Learning project featuring a **2-Layer LSTM net
 Below is a demonstration of the interactive **Gradio** interface processing inputs, handling out-of-vocabulary terms gracefully, and executing next-word tensor inferences in real-time.
 
 
-<p align ="center" >
+<p align="center>
+
   
 
+https://github.com/user-attachments/assets/da4abb99-dfeb-4969-b756-8711a981d2fb
 
-https://github.com/user-attachments/assets/22191227-30ea-4b12-82a9-4bc525b23ae6
 
-</p>
+  </p>
 
 ---
 
